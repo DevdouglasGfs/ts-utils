@@ -1,0 +1,28 @@
+{
+  "name": "ts-utils",
+  "type": "module",
+  "author": "DevdouglasGfs <devdouglassilva@gmail.com> (https://github.com/DevdouglasGfs)",
+  "dependencies": {
+    "typescript": "5.7.3"
+  },
+  "devDependencies": {
+    "prettier": "3.5.2",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "5.0.0"
+  },
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevdouglasGfs/ts-utils.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevdouglasGfs/ts-utils/issues"
+  },
+  "homepage": "https://github.com/DevdouglasGfs/ts-utils#readme"
+}
