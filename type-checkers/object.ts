@@ -28,6 +28,7 @@ export const checkIfExistKey = <
 >(
   object: T,
   key: P,
+  _?: R
 ): key is R => {
   return Object.keys(object).includes(key);
 };
